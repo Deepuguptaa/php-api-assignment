@@ -1,0 +1,84 @@
+[
+    {
+        "id": 1,
+        "name": "GamingLaptop",
+        "price": "90000",
+        "quantity": "5",
+        "description": "HighPerformance"
+    },
+    {
+        "id": 3,
+        "name": "Keyboard",
+        "price": 1500
+    },
+    {
+        "id": "1",
+        "name": "GamingLaptop",
+        "price": "90000"
+    },
+    {
+        "id": "1",
+        "name": "GamingLaptop",
+        "price": "90000"
+    },
+    {
+        "id": "4",
+        "name": "Mouse",
+        "price": "800"
+    },
+    {
+        "id": 6,
+        "name": "Laptop",
+        "price": "50000",
+        "quantity": "5"
+    },
+    {
+        "id": 7,
+        "name": "Phone",
+        "description": "Android",
+        "price": "20000",
+        "quantity": "2"
+    },
+    {
+        "id": 8,
+        "name": "Phone",
+        "description": "Android",
+        "price": "20000",
+        "quantity": "2"
+    },
+    {
+        "id": 9,
+        "name": "Phone",
+        "description": "Android",
+        "price": "20000",
+        "quantity": "2"
+    },
+    {
+        "id": 10,
+        "name": "TV",
+        "description": "",
+        "price": "-100",
+        "quantity": ""
+    },
+    {
+        "id": 11,
+        "name": "Phone",
+        "description": "Android",
+        "price": "20000",
+        "quantity": "2"
+    },
+    {
+        "id": 12,
+        "name": "Phone",
+        "description": "Android",
+        "price": "20000",
+        "quantity": "2"
+    },
+    {
+        "id": 13,
+        "name": "Phone",
+        "description": "Android",
+        "price": "20000",
+        "quantity": "2"
+    }
+]
